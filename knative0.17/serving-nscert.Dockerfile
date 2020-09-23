@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/networking/nscert@sha256:75783245a8167660c16beaab863481ef4dbfc06308a0fab4020e4d84d889264b
+MAINTAINER iamlovingit

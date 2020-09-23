@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:18aadbb4796d7b6316ae971be5233dac28cd794c517e220d127aa9e21d91df42
+MAINTAINER iamlovingit

@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-certmanager/cmd/webhook@sha256:e1852bda821ee894deed0f1d2c6ee067114c576a7c7554ae727440101eff878a
+MAINTAINER iamlovingit

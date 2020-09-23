@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-certmanager/cmd/controller@sha256:6a786efd6b369b2d1ba3cc045fe688c386aa65a541703b870d1a05bdd59ef390
+MAINTAINER iamlovingit
