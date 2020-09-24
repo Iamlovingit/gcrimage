@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-http01/cmd/controller@sha256:868c9506f945ccb1a7f2504d35c188058b31fbeef50bdae2ea66f889696da004
+MAINTAINER iamlovingit
